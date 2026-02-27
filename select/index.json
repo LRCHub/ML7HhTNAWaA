@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "フューリー",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-27T08:15:22.783012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マイン・イズ・ザ・フューリー",
+      "artist": "Eluveitie",
+      "has_synced": false,
+      "path": "select/01_マイン・イズ・ザ・フューリー_Eluveitie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フューリー",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/02_フューリー_Mafumafu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フューリー",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_フューリー_まふまふ.txt"
+    }
+  ]
+}
